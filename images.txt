@@ -7,6 +7,7 @@
 #redis:5.0.7
 #busybox
 #hengyunabc/arthas
-node:14.18.2-alpine
+#node:14.18.2-alpine
+node:14.18.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
