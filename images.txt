@@ -4,12 +4,13 @@
 #xhofe/alist:latest
 #eclipse-temurin:8-jdk-alpine
 #eclipse-temurin:8-jdk
+eclipse-temurin:11.0.24_8-jdk
 #maven:3.9.8-amazoncorretto-8
 #redis:5.0.7
 #busybox
 #hengyunabc/arthas
 #node:14.18.2-alpine
 #node:14.18.2
-jc3wish/bifrost:v2.3.4-beta
+#jc3wish/bifrost:v2.3.4-beta
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
