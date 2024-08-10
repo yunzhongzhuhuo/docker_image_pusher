@@ -11,7 +11,8 @@
 #hengyunabc/arthas
 #node:14.18.2-alpine
 #node:14.18.2
-node:18.12.1
+#node:18.12.1
+node:20.10.0
 #jc3wish/bifrost:v2.3.4-beta
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
