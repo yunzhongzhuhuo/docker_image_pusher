@@ -18,4 +18,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-bitnami/minio:latest
+#bitnami/minio:latest
+bitnami/minio:2024.4.6
