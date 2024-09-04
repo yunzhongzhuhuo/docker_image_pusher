@@ -22,4 +22,5 @@
 #bitnami/minio:latest
 #bitnami/minio:2024.4.6
 
-elestio/strapi-production:v5.0.0-rc.12
+#elestio/strapi-production:v5.0.0-rc.12
+elestio/postgres:latest
