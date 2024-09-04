@@ -14,9 +14,10 @@
 #node:18.12.1
 #node:20.10.0
 #node:16-alpine
+node:18-alpine
 #jc3wish/bifrost:v2.3.4-beta
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #bitnami/minio:latest
-bitnami/minio:2024.4.6
+#bitnami/minio:2024.4.6
