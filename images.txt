@@ -26,9 +26,10 @@
 # elestio/postgres:latest
 
 # redis
-redis:7.0.4
-mysql:8.0.30
-nacos/nacos-server:v2.1.1
-bitnami/minio:latest
-apache/rocketmq:4.9.4
-styletang/rocketmq-console-ng
+#redis:7.0.4
+#mysql:8.0.30
+#nacos/nacos-server:v2.1.1
+#bitnami/minio:latest
+#apache/rocketmq:4.9.4
+#styletang/rocketmq-console-ng
+seataio/seata-server:1.4.1
