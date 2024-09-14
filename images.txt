@@ -23,4 +23,12 @@
 #bitnami/minio:2024.4.6
 
 #elestio/strapi-production:v5.0.0-rc.12
-elestio/postgres:latest
+# elestio/postgres:latest
+
+# redis
+redis:7.0.4
+mysql:8.0.30
+nacos/nacos-server:v2.1.1
+bitnami/minio:latest
+apache/rocketmq:4.9.4
+styletang/rocketmq-console-ng
