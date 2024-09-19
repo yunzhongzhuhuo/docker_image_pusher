@@ -32,4 +32,5 @@
 #bitnami/minio:latest
 #apache/rocketmq:4.9.4
 #styletang/rocketmq-console-ng
-seataio/seata-server:1.4.1
+#seataio/seata-server:1.4.1
+amir20/dozzle:v8.4.4
