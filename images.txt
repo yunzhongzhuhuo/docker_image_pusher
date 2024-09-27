@@ -34,4 +34,5 @@
 #styletang/rocketmq-console-ng
 #seataio/seata-server:1.4.1
 #amir20/dozzle:v8.4.4
-docker.elastic.co/elasticsearch/elasticsearch:8.15.2
+#docker.elastic.co/elasticsearch/elasticsearch:8.15.2
+docker.elastic.co/elasticsearch/elasticsearch:8.15.1
