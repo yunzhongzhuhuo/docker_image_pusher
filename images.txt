@@ -5,6 +5,7 @@
 #eclipse-temurin:8-jdk-alpine
 #eclipse-temurin:8-jdk
 #eclipse-temurin:11.0.24_8-jdk
+eclipse-temurin:17.0.12_7-jdk
 #maven:3.9.8-amazoncorretto-8
 #redis:5.0.7
 #busybox
@@ -36,4 +37,4 @@
 #amir20/dozzle:v8.4.4
 #docker.elastic.co/elasticsearch/elasticsearch:8.15.2
 #docker.elastic.co/elasticsearch/elasticsearch:8.15.1
-docker.elastic.co/elasticsearch/elasticsearch:7.6.2
+#docker.elastic.co/elasticsearch/elasticsearch:7.6.2
