@@ -31,7 +31,8 @@
 
 # mysql
 #mysql:8.0.30
-mysql:8.0.40-debian
+mysql:8.0.33-debian
+#mysql:8.0.40-debian
 
 #nacos/nacos-server:v2.1.1
 #bitnami/minio:latest
