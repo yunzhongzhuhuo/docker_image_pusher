@@ -28,7 +28,11 @@
 
 # redis
 #redis:7.0.4
+
+# mysql
 #mysql:8.0.30
+mysql:8.0.40-debian
+
 #nacos/nacos-server:v2.1.1
 #bitnami/minio:latest
 #apache/rocketmq:4.9.4
@@ -40,4 +44,4 @@
 #docker.elastic.co/elasticsearch/elasticsearch:7.6.2
 
 # pg
-pgvector/pgvector:0.8.0-pg17
+#pgvector/pgvector:0.8.0-pg17
