@@ -31,7 +31,7 @@
 
 # mysql
 #mysql:8.0.30
-mysql:8.0.33-debian
+#mysql:8.0.33-debian
 #mysql:8.0.40-debian
 
 #nacos/nacos-server:v2.1.1
@@ -46,3 +46,4 @@ mysql:8.0.33-debian
 
 # pg
 #pgvector/pgvector:0.8.0-pg17
+bitnami/postgresql:17-debian-12
