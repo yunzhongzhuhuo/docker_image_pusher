@@ -50,4 +50,7 @@
 
 # python
 #python:3.12.8
-python:3.12.8-alpine3.21
+#python:3.12.8-alpine3.21
+
+# mcp
+mcp/github
