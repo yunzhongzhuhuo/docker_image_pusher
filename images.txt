@@ -53,4 +53,7 @@
 #python:3.12.8-alpine3.21
 
 # mcp
-mcp/github
+# mcp/github
+
+# mqtt
+emqx/emqx:5.8.6
