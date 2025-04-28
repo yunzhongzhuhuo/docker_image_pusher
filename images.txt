@@ -16,6 +16,9 @@
 #node:20.10.0
 #node:16-alpine
 #node:18-alpine
+node:20.19.1
+node:20.19.1-alpine
+
 #jc3wish/bifrost:v2.3.4-beta
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -56,4 +59,4 @@
 # mcp/github
 
 # mqtt
-emqx/emqx:5.8.6
+# emqx/emqx:5.8.6
