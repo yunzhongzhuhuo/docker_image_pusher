@@ -62,4 +62,7 @@
 # emqx/emqx:5.8.6
 
 # iotdb
-apache/iotdb:1.3.4-standalone
+# apache/iotdb:1.3.4-standalone
+
+# n8n
+n8nio/n8n:1.94.0
