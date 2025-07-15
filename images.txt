@@ -31,7 +31,7 @@
 # redis
 # redis:5.0.7
 # redis:7.0.4
-redis:8.0.2
+# redis:8.0.2
 
 # mysql
 # mysql:8.0.30
@@ -67,3 +67,6 @@ redis:8.0.2
 
 # n8n
 # n8nio/n8n:1.94.0
+
+# ubuntu
+ubuntu:20.04
