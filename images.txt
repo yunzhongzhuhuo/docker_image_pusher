@@ -69,4 +69,7 @@
 # n8nio/n8n:1.94.0
 
 # ubuntu
-ubuntu:20.04
+# ubuntu:20.04
+
+
+jupyterhub/jupyterhub:5.3.0
