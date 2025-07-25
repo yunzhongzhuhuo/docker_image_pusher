@@ -2,10 +2,13 @@
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
+
 # eclipse-temurin:8-jdk-alpine
 # eclipse-temurin:8-jdk
 # eclipse-temurin:11.0.24_8-jdk
 # eclipse-temurin:17.0.12_7-jdk
+amazoncorretto:8
+
 # maven:3.9.8-amazoncorretto-8
 # busybox
 # hengyunabc/arthas
@@ -72,4 +75,4 @@
 # ubuntu:20.04
 
 
-jupyterhub/jupyterhub:5.3.0
+# jupyterhub/jupyterhub:5.3.0
