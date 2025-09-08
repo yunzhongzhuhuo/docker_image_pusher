@@ -25,9 +25,9 @@ amazoncorretto:8
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-# bitnami/minio:latest
+bitnami/minio:latest
 # bitnami/minio:2024.4.6
-bitnami/minio:2025.7.23
+# bitnami/minio:2025.7.23
 
 # elestio/strapi-production:v5.0.0-rc.12
 # elestio/postgres:latest
