@@ -7,7 +7,7 @@
 # eclipse-temurin:8-jdk
 # eclipse-temurin:11.0.24_8-jdk
 # eclipse-temurin:17.0.12_7-jdk
-amazoncorretto:8
+# amazoncorretto:8
 
 # maven:3.9.8-amazoncorretto-8
 # busybox
@@ -28,7 +28,8 @@ amazoncorretto:8
 # bitnami/minio:latest
 # bitnami/minio:2024.4.6
 # bitnami/minio:2025.7.23
-minio/minio:latest
+# minio/minio:latest
+minio/minio:RELEASE.2025-04-22T22-12-26Z
 
 # elestio/strapi-production:v5.0.0-rc.12
 # elestio/postgres:latest
