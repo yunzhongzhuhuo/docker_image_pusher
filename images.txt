@@ -9,6 +9,9 @@
 # eclipse-temurin:17.0.12_7-jdk
 # amazoncorretto:8
 
+# arthas
+hengyunabc/arthas:latest
+
 # maven:3.9.8-amazoncorretto-8
 # busybox
 # hengyunabc/arthas
@@ -30,7 +33,7 @@
 # bitnami/minio:2025.7.23
 # minio/minio:latest
 # minio/minio:RELEASE.2025-04-22T22-12-26Z
-minio/minio:RELEASE.2025-09-07T16-13-09Z
+# minio/minio:RELEASE.2025-09-07T16-13-09Z
 
 # elestio/strapi-production:v5.0.0-rc.12
 # elestio/postgres:latest
