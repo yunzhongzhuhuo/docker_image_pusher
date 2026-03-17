@@ -83,3 +83,7 @@ hengyunabc/arthas:latest
 
 
 # jupyterhub/jupyterhub:5.3.0
+
+# rocketmq
+apache/rocketmq:5.3.2
+apache/rocketmq-dashboard:latest
