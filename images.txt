@@ -10,7 +10,7 @@
 # amazoncorretto:8
 
 # arthas
-hengyunabc/arthas:latest
+# hengyunabc/arthas:latest
 
 # maven:3.9.8-amazoncorretto-8
 # busybox
@@ -49,6 +49,7 @@ hengyunabc/arthas:latest
 # mysql:8.0.40-debian
 
 # nacos/nacos-server:v2.1.1
+nacos/nacos-server:2.0.0
 # bitnami/minio:latest
 # apache/rocketmq:4.9.4
 # styletang/rocketmq-console-ng
